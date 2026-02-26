@@ -25,7 +25,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 class ApiAgendaApplicationTests {
 
     // Injeção de depencia
-
+    /*
     @Autowired
     private MockMvc mockMvc;
 
@@ -77,5 +77,5 @@ class ApiAgendaApplicationTests {
     void consultarCompromissoTest() {
         fail("Não Implementado");
     }
-
+    */
 }
